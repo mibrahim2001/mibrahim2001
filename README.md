@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibrahim.
-- 👀 I’m interested in web development and coding(Java Currently). 
-- 🌱 I’m currently learning front end web development (HTML, CSS, Javascript, Wordpress)
+- 👀 I’m interested in web development and coding(ReactJS Currently). 
+- 🌱 I’m currently learning front end development (HTML, CSS, Javascript, ReactJS, React Native)
 - 🌱 Java enthusiast.
 - 💞️ I’m looking to collaborate on anything involving these mentioned skills. 
 - 📫 How to reach me mibrahim37612@gmail.com. 
