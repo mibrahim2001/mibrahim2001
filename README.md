@@ -6,7 +6,7 @@
 
 🤓 I'm always open to new opportunities and collaborations. Let's chat if you have a project that could use a little extra magic (or someone to dominate the next coding competition with).
 
-📧 You can reach me at mibrahim37612@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-mobileapp-developer/) .
+📧 You can reach me at mibrahim37612@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ibrahim-reactnative-developer/) .
 
 🚀 Thanks for stopping by! I can't wait to see what we can build (and conquer) together.
 <!---
