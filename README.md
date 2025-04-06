@@ -1,6 +1,6 @@
-🔥 Hey, I'm Ibrahim! I'm a front-end developer with a love for React, competitive programming, and all things ML and AI.
+🔥 Hey, I'm Ibrahim! I'm a full-stack developer with a love for React, competitive programming, and all things ML and AI.
 
-💻 Constantly learning and growing my skills, I specialize in ReactJS and React Native. In my free time, you can find me diving into the latest ML and AI technologies   and trying out new projects.
+💻 Constantly learning and growing my skills, I specialize in ReactJS and React Native. In my free time, you can find me diving into the latest ML and AI technologies and trying out new projects.
 
 💪 When I'm not busy coding or learning, you can find me tackling new challenges and finding creative solutions to problems.
 
